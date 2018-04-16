@@ -23,6 +23,7 @@ section {
     float: left;
     border: 1px solid #eee;
     width: 90%;
+    
 }
 
 h2 {
@@ -33,11 +34,13 @@ h2 {
 img {
     float: left;
     style: "width: 200px; height: 200px";
+    margin: 10px 20px;
 }
 
 P {
-    margin-left: 20px;
+    padding: 20px;
     font-size: 120%;
+    
 }
 
 footer {
