@@ -2,7 +2,6 @@ body {
     background-color:#ccc4c4;
     margin: 0px;
     border: 20px;
-    text-align: left;
 }
 
 header {
@@ -26,6 +25,7 @@ h2 {
     font-size: 200%;
     color: #0a757c;
 }
+
 img {
     float: left;
     width: 200px; 
@@ -33,18 +33,38 @@ img {
     margin: 10px 20px;
 }
 
-P {
-    font-size: 120%;
+p {
+    font-size: 20px;
+}
+
+#copyright { 
+    font-size: 20px;
+    margin: 0 auto;
+    width: 10%;
 }
 
 #footer {
-    position:fixed;
+    position: fixed;
     background-color: #666666;
-    margin: 0px auto;
-    padding: 20px;
     bottom: 0px;
-    width: 98%;
-    height: 20px;
+    width: 100%;
+    padding: 5px;
+    height: 40px;
+}
+
+#firstname {
+    width: 50%;
+    font-size: 26px;
+}
+
+#lastname {
+    width: 50%;
+    font-size: 26px;
+}
+
+#message {
+    width: 50%;
+    font-size: 26px;
 }
 
 
