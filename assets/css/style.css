@@ -1,7 +1,6 @@
 body {
-    background-color:rgb(204, 196, 196);
+    background-color:#ccc4c4;
     margin: 0px;
-    padding: 20px;
     border: 20px;
     text-align: left;
 }
@@ -16,44 +15,40 @@ header {
     text-align: center
 }
 
-section {
-    background-color: rgb(247, 238, 238);
-    margin: 10px;
-    padding: 20px;
+.container {
+    background-color: #f7eeee;
     float: left;
     border: 1px solid #eee;
     width: 90%;
-    
 }
 
 h2 {
     font-size: 200%;
-    color: rgb(10, 117, 124);
+    color: #0a757c;
 }
-
 img {
     float: left;
-    style: "width: 200px; height: 200px";
+    width: 200px; 
+    height: 200px;
     margin: 10px 20px;
 }
 
 P {
-    padding: 20px;
     font-size: 120%;
-    
 }
 
 #footer {
     position:fixed;
     background-color: #666666;
-    text-align: center;
-    margin: 20px;
+    margin: 0px auto;
     padding: 20px;
     bottom: 0px;
-    left: 0px;
     width: 98%;
     height: 20px;
 }
+
+
+
 
 
 
