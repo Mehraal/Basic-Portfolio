@@ -2,11 +2,12 @@ body {
     background-color:#ccc4c4;
     margin: 0px;
     border: 20px;
+    background-image: url("http://i.stack.imgur.com/jGlzr.png");
 }
 
 header {
     background-color: #4aaaa5;
-    margin: 10px;
+    margin:10px 20px 0px 80px;
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 180px;
@@ -15,32 +16,38 @@ header {
 }
 
 .container {
-    background-color: #f7eeee;
+    background-color: #b9b3b3;
     float: left;
-    border: 1px solid #eee;
-    width: 90%;
+    border: 1px solid #857f7f;
+    width: 100%;
+    margin-right: 20px;
+    height: 500px;
+    
 }
 
 h2 {
     font-size: 200%;
     color: #0a757c;
+    margin-left:  120px;
+    margin-bottom: 0;
 }
 
 img {
     float: left;
     width: 200px; 
     height: 200px;
-    margin: 10px 20px;
+    margin: 30px 30px 30px 60px;
 }
 
 p {
     font-size: 20px;
+    color: #000000;
 }
 
 #copyright { 
     font-size: 20px;
     margin: 0 auto;
-    width: 10%;
+    width: 5%;
 }
 
 #footer {
@@ -55,16 +62,28 @@ p {
 #firstname {
     width: 50%;
     font-size: 26px;
+    float: center;
+    margin: 20px 10px 10px 80px;
 }
 
 #lastname {
     width: 50%;
     font-size: 26px;
+    float: center;
+    margin: 0px 10px 10px 80px;
 }
 
 #message {
     width: 50%;
     font-size: 26px;
+    float: center;
+    margin: 0px 10px 10px 80px;
+}
+
+#contact {
+    background-color: #ccc4c4;
+    margin: 0;
+    border: 20px;
 }
 
 
