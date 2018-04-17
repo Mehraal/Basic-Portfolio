@@ -14,9 +14,21 @@ header {
     height: 60px;
     text-align: center
 }
+.topnav {
+    float: right;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 0px 20px 100px;
+}
+.topnav a {
+    float: right;
+    display: block;
+
+}
 
 .container {
-    background-color: #b9b3b3;
+    background-color: #cfc5c5;
     float: left;
     border: 1px solid #857f7f;
     width: 100%;
@@ -63,7 +75,7 @@ p {
     width: 50%;
     font-size: 26px;
     float: center;
-    margin: 20px 10px 10px 80px;
+    margin: 0px 10px 10px 80px;
 }
 
 #lastname {
