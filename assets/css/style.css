@@ -2,7 +2,6 @@ body {
     background-color:#ccc4c4;
     margin: 0px;
     border: 20px;
-    background-image: url("http://i.stack.imgur.com/jGlzr.png");
 }
 
 header {
@@ -15,9 +14,8 @@ header {
     text-align: center
 }
 .topnav {
-    float: right;
     color: black;
-    text-align: center;
+    text-align: right;
     font-size: 14px;
     margin: 10px 0px 20px 100px;
 }
@@ -31,15 +29,16 @@ header {
     background-color: #cfc5c5;
     float: left;
     border: 1px solid #857f7f;
-    width: 100%;
-    margin-right: 20px;
-    height: 500px;
-    
+    padding: 20px;
+    width: 960px;
+    height: 450px;
+    background-image: url("http://i.stack.imgur.com/jGlzr.png");
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
-    font-size: 200%;
-    color: #0a757c;
+    font-size: 36px;;
+    color: #08666d;
     margin-left:  120px;
     margin-bottom: 0;
 }
@@ -69,6 +68,9 @@ p {
     width: 100%;
     padding: 5px;
     height: 40px;
+    border: 3px solid teal;
+    
+    
 }
 
 #firstname {
@@ -81,7 +83,7 @@ p {
 #lastname {
     width: 50%;
     font-size: 26px;
-    float: center;
+    
     margin: 0px 10px 10px 80px;
 }
 
