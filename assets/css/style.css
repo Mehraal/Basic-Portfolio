@@ -1,7 +1,7 @@
 body {
     margin: 0 auto;
     border: 20px;
-    background-image: url("https://cdn.wallpapersafari.com/42/23/rNjDs2.jpg")
+    background-image: url("https://wallpapertag.com/wallpaper/full/9/b/2/302964-popular-white-texture-background-1920x1200.jpg")
 }
 
 header {
@@ -11,7 +11,7 @@ header {
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
-    
+    border: 1px solid #cccccc;
 }
 
 .topnav a {
@@ -21,9 +21,9 @@ header {
 }
 
 .container {
-    background-color: #ccc4c4;
+    background-color: #e0d9d9;
     text-align: left;
-    border: 1px solid #857f7f;
+    border: 1px solid #dddddd;
     width: 960px;
     height: 450px;
     font-family: Arial, Helvetica, sans-serif;
@@ -44,12 +44,14 @@ img {
     float: left;
     width: 200px; 
     height: 200px;
-    margin: 10px 20px 30px 60px;
+    margin: 10px 20px 10px 20px;
 }
 
 p {
     font-size: 20px;
     color: #000000;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #copyright {
@@ -85,7 +87,7 @@ p {
 }
 
 #contact {
-    background-color: #ccc4c4;
+    background-color: #e0d9d9;
     text-align: center;
 }
 
