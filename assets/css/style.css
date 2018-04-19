@@ -4,9 +4,19 @@ body {
     background-image: url("https://wallpapertag.com/wallpaper/full/9/b/2/302964-popular-white-texture-background-1920x1200.jpg")
 }
 
+h1 {
+    background-color: #08666d;
+    padding: 20px;
+    margin-right:  1150px;
+    margin-bottom: -20px;
+    margin-top: -20px;
+    height: 50px;
+    text-align: center;
+}
+
 header {
     background-color: #ffffff;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     float: top;
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
